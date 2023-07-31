@@ -1,0 +1,13 @@
+{
+  "name": "web-components-test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start:server": "node --watch ./index.js",
+    "start:mf": "npx serve ./microfrontends"
+  },
+  "keywords": [],
+  "author": "Lazajs",
+  "license": "ISC"
+}
